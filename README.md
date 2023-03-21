@@ -1,7 +1,7 @@
 # Examples_Python_code
 Contains python code used during the Data Analytics Course for sample project "instacart"
 
-##Objective
+## Objective
 Instacart wants to get more information and knowledge out of is business data in order to support their sales and marketing strategy.
 
 ## Data
